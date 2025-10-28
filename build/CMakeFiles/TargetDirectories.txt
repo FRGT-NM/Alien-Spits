@@ -1,0 +1,3 @@
+/home/frgt/AI/Practice/build/CMakeFiles/QT_Practice.dir
+/home/frgt/AI/Practice/build/CMakeFiles/edit_cache.dir
+/home/frgt/AI/Practice/build/CMakeFiles/rebuild_cache.dir
